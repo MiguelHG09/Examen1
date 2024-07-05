@@ -19,15 +19,7 @@
 
                 <p>
                     <a href="#" class="btn btn-primary">Agregar nuevo</a>
-                            <button type="submit">Guardar</button>
-                        </form>
-                    </div>
-                    
-                </body>
-                </html>
-
                     <a href="#" class="btn btn-success">Buscar</a>
-                    
                 </p>
 
                 <table class="table">
