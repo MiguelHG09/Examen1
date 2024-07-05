@@ -18,8 +18,9 @@
                 <div class="p-6">
 
                 <p>
-                    <a href="#" class="btn btn-primary">Agregar nuevo</a>
-                    <a href="#" class="btn btn-success">Buscar</a>
+                    <a href="{{ route('crear-entrada') }}" class="btn btn-primary">Agregar Nuevo</a>
+                    <a href="{{ route('buscar-entrada') }}" class="btn btn-info">Buscar</a>
+
                 </p>
 
                 <table class="table">
@@ -39,6 +40,8 @@
                                 <td>9999</td>
                                 <td>
                                     <a href="#" class="btn btn-info">Ver</a>
+                                    
+                                    
                                 </td>
                                 <td>
                                     <a href="#" class="btn btn-danger">Eliminar</a>
